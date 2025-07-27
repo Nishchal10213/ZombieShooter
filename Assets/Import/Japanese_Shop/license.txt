@@ -1,0 +1,11 @@
+Model Information:
+* title:	Japanese Shop
+* source:	https://sketchfab.com/3d-models/japanese-shop-5f82ffdd51954c68a7c40b24e8e6a8e0
+* author:	Christian Camelo (https://sketchfab.com/christiances)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Japanese Shop" (https://sketchfab.com/3d-models/japanese-shop-5f82ffdd51954c68a7c40b24e8e6a8e0) by Christian Camelo (https://sketchfab.com/christiances) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

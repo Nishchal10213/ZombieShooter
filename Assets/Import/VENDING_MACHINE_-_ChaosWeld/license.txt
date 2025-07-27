@@ -1,0 +1,11 @@
+Model Information:
+* title:	VENDING MACHINE - ChaosWeld
+* source:	https://sketchfab.com/3d-models/vending-machine-chaosweld-a1095188aa36400a92782e20dc3a91b7
+* author:	ChaosWeld (https://sketchfab.com/chaosweld)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "VENDING MACHINE - ChaosWeld" (https://sketchfab.com/3d-models/vending-machine-chaosweld-a1095188aa36400a92782e20dc3a91b7) by ChaosWeld (https://sketchfab.com/chaosweld) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

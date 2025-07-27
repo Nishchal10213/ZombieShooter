@@ -1,0 +1,11 @@
+Model Information:
+* title:	Take away house Ciberpunk
+* source:	https://sketchfab.com/3d-models/take-away-house-ciberpunk-a0678b9adb054e219e171faba1ed7a4f
+* author:	Yuki Hernan Barbera (https://sketchfab.com/ikitobarbera)
+
+Model License:
+* license type:	CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions can not be distributed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Take away house Ciberpunk" (https://sketchfab.com/3d-models/take-away-house-ciberpunk-a0678b9adb054e219e171faba1ed7a4f) by Yuki Hernan Barbera (https://sketchfab.com/ikitobarbera) licensed under CC-BY-NC-ND-4.0 (http://creativecommons.org/licenses/by-nc-nd/4.0/)
